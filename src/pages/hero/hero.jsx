@@ -72,7 +72,7 @@ export const Hero = () => {
                       <div id='mobileNav'>
                       <div id='mbWrap' ref={ref}>
                           <div id='mbWrapH'>
-                              <h1>J<span className='txtG'>aden</span></h1>
+                              <h1>D<span className='txtG'>ustin</span></h1>
                               <img  src='./close.png' onClick={toggleNav}/>
                            </div>
                            <div id='mbWrapB'>
