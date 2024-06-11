@@ -57,7 +57,7 @@ export function Hero(){
                             <li><a href='#faq'>faqs</a></li>
                         </ul>
 
-                    <h1 id='navCenter'> first-Impression</h1>
+                    <h1 id='navCenter'> FI</h1>
 
                     <div id='socialIcons'>
                         <div className='socialIcon'><img src='./facebook.png' /></div>
