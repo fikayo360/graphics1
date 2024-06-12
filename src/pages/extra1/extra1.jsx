@@ -15,7 +15,7 @@ const Extra1 = () => {
                 duration: 1,
                 opacity:0,
                 delay:1,
-                ease: "power2.out"
+                ease: "power2.out" 
         })
         }, { scope: container });
 
