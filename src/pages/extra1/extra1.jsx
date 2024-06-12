@@ -21,17 +21,17 @@ const Extra1 = () => {
 
     return (
         <section id='extra' ref={container}>
-                <p id='e' className='bt'>"If I could give first impression and his photography business more than five stars,
-                     I would do it in a heartbeat! From start to finish, first impression has been an absolute dream to work with, and his talent behind the lens is truly unparalleled.
+                <p id='e' className='bt'>"If I could give wells photography and his photography business more than five stars,
+                     I would do it in a heartbeat! From start to finish, wells photography has been an absolute dream to work with, and his talent behind the lens is truly unparalleled.
 
-                    From the moment we met first impression, it was clear that he wasn't just
+                    From the moment we met wells photography, it was clear that he wasn't just
                     another photographer – he's a true artist who pours his heart and soul into his craft. 
                     His passion for capturing the beauty and emotion of every moment shines through in every single photograph he takes.
 
-                    Leading up to our big day, first impression took the time to understand our vision and preferences, 
-                    ensuring that every shot reflected our unique style and personality. On the day of the wedding, first impression and his team were an absolute joy to have around – professional, attentive, and incredibly talented.
+                    Leading up to our big day, wells photography took the time to understand our vision and preferences, 
+                    ensuring that every shot reflected our unique style and personality. On the day of the wedding, wells photography and his team were an absolute joy to have around – professional, attentive, and incredibly talented.
 
-                    But it's not just about the technical skill – first impression has an incredible ability to make you feel comfortable and at
+                    But it's not just about the technical skill – wells photography has an incredible ability to make you feel comfortable and at
                     ease in front of the camera, capturing the most authentic and heartfelt moments that we will treasure for a lifetime.
                 </p>
             <h1 className='bt'>Matt & ashley</h1>
