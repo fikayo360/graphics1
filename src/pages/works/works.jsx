@@ -27,7 +27,7 @@ export const Works = () => {
 
                 <div className='wrkItem'>
                     <img src='https://images.squarespace-cdn.com/content/v1/570c0dd6f850826fac078cd7/1578131475942-8QG1QXOO06MFD7FLYQS6/US+Grant+Wedding+50.jpg'/>
-                    <div className='wrkTxt'>
+                    <div className='wrkTxt'>   
                     <h1>rod & eve </h1>
                     <span>june 23,2022</span>
                     </div>
